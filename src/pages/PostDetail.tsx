@@ -1,7 +1,6 @@
 import { useParams } from 'react-router-dom'
 import { Link } from 'react-router-dom'
 import ReactMarkdown from 'react-markdown'
-import Header from '../components/Header'
 import { getPostBySlug } from '../utils/api'
 import { formatDate } from '../utils/formatDate'
 import styles from './PostDetail.module.css'
