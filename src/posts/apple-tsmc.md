@@ -2,9 +2,9 @@
 title: "Hardware Giants & TSMC: How a Fickle Supply Chain Can Thwart the World’s Quest to AGI"
 date: "2026-02-16"
 excerpt: "Apple, Nvidia, and other hardware giants depend on a single company—TSMC—for the world’s most advanced chips. This post explores how the global supply chain’s instability, particularly across U.S.-China-Taiwan relations, could jeopardize innovation in AI and the future of technology."
-previewImage: "/src/assets/post-images/apple-tsmc/tsmc.jpg"
+previewImage: "/post-images/apple-tsmc/tsmc.jpg"
 ---
-![TSMC](/src/assets/post-images/apple-tsmc/tsmc.jpg)
+![TSMC](/post-images/apple-tsmc/tsmc.jpg)
 ### Global Chip Supply Chain Background
 The global chip supply chain is one that is heavily consolidated. Hardware giants such as Apple, Nvidia, AMD, and many more depend on one single company for their most advanced chip manufacturing needs: Taiwan Semiconductor Manufacturing Company (TSMC). Currently, TSMC manufactures over 60% of the world’s chips, and over 90% of the world’s most advanced chips [1]. The world’s reliance on TSMC poses a significant threat to innovation in AI as global trade relations dictate access to these precious electronics.
 

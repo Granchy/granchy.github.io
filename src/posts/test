@@ -2,11 +2,11 @@
 title: "Welcome to My Blog"
 date: "2026-02-16"
 excerpt: "This is an example blog post to get you started. You'll see how to write in markdown, use frontmatter for metadata, and have your posts show up automatically on the home page."
-previewImage: "/src/assets/post-images/test/doughty.jpg"
+previewImage: "/post-images/test/doughty.jpg"
 ---
 This is an example blog post written in markdown. You can write your blog posts here and they'll automatically appear on your website!
 
-![Drew Doughty](/src/assets/post-images/test/doughty.jpg)
+![Drew Doughty](/post-images/test/doughty.jpg)
 
 ## Features
 
