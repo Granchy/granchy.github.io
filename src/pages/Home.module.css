@@ -1,0 +1,49 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.postList {
+  list-style: none;
+  padding: 0;
+  margin: 2rem 0;
+}
+
+.postItem {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.postItem:last-child {
+  border-bottom: none;
+}
+
+.postLink {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  transition: opacity 0.2s;
+}
+
+.postLink:hover {
+  opacity: 0.8;
+}
+
+.postLink h2 {
+  margin: 0 0 0.5rem 0;
+  color: #646cff;
+}
+
+.excerpt {
+  margin: 0.5rem 0;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.date {
+  display: block;
+  font-size: 0.9em;
+  color: rgba(255, 255, 255, 0.5);
+  margin-top: 0.5rem;
+}

@@ -1,0 +1,114 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.backLink {
+  display: inline-block;
+  margin-bottom: 2rem;
+  color: #646cff;
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+
+.backLink:hover {
+  opacity: 0.8;
+}
+
+.article {
+  line-height: 1.6;
+  text-align: left;
+}
+
+.header {
+  /* margin-bottom: 2rem; */
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.header {
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0 0 0.5rem 0;
+}
+
+.date {
+  display: block;
+  font-size: 1.2em;
+  font-style: italic;
+  color: rgb(0, 0, 0);
+}
+
+.content {
+  color: rgb(0, 0, 0);
+  text-align: left;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  margin-top: 2rem;
+  margin-bottom: 0rem;
+  color: rgb(0, 0, 0)
+}
+
+.content p {
+  margin-bottom: 1rem;
+  margin-top: 0rem;
+}
+
+.content ul,
+.content ol {
+  margin-bottom: 1rem;
+  padding-left: 2rem;
+}
+
+.content code {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+.content pre {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 1rem;
+  border-radius: 5px;
+  overflow-x: auto;
+  margin-bottom: 1rem;
+}
+
+.content pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+.content a {
+  color: #646cff;
+  text-decoration: none;
+}
+
+.content a:hover {
+  text-decoration: underline;
+}
+
+.content blockquote {
+  border-left: 3px solid #646cff;
+  padding-left: 1rem;
+  margin-left: 0;
+  margin-bottom: 1rem;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem 0;
+}
