@@ -1,0 +1,1 @@
+import{j as s,H as e}from"./index-DPAG5Dkt.js";function r(){return s.jsxs("div",{children:[s.jsx(e,{}),s.jsx("h1",{children:"About"}),s.jsx("p",{children:"This is the about page."})]})}export{r as default};
